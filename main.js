@@ -168,3 +168,8 @@ console.log(x1 + y1);
 console.log(x1 - y1);
 console.log(x1 * y1);
 console.log(x1 / y1);
+
+let a2 = 15;
+let b2 = 4;
+console.log(a2 + b2);
+console.log(a2 * b2);
